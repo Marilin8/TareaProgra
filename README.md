@@ -1,4 +1,4 @@
-# TareaProgra
+# Lista Simplemente Enlazada
 
 Este repositorio contiene una implementación de una lista simplemente enlazada en Java. 
 Las listas simplemente enlazadas son estructuras de datos lineales donde cada elemento, llamdo nodo, contien un valor y una referencia al siguiente nodo en la secuencia. Estas listas se utilizan para almacenar y manipular datos de manera dinámica, nos permite insertar y eliminar en cualquier posición.
